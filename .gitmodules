@@ -7,3 +7,6 @@
 [submodule "lib/foundry-devops"]
 	path = lib/foundry-devops
 	url = https://github.com/cyfrin/foundry-devops
+[submodule "foundry-allowance-wallet-practice/lib/forge-std"]
+	path = foundry-allowance-wallet-practice/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

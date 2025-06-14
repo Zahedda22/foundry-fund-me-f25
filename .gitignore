@@ -12,10 +12,13 @@ docs/
 
 # Dotenv file
 .env
+/lib
 
 .DS_store
 
 zkout/
 
 broadcast/
-lib/
+
+
+.keystore
